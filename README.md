@@ -1,2 +1,1 @@
-# mtc-repo-backend
-backend Code For mtc-course
+# This dev repo is for backend devs
